@@ -1,0 +1,1 @@
+print("Wielkie dzięki za wsparcie. Powoli do przodu i mam nadzieję, że po kursie się widzimy ;)")
