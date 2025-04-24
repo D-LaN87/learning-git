@@ -3,7 +3,8 @@ shopping_list = {
     "warzywniak" : ["marchew", "seler", "pomidor"],
 }
 for k, v in shopping_list.items():
-    print("Wchodzę do " + str(k).title() + ", kupuję tu następujące rzeczy: " + str(v).title())
+    # to k jest napisem, więc nie trzeba dokonywać konwersji. 
+    print("Wchodzę do " + k.title() + ", kupuję tu następujące rzeczy: " + str(v).title())
 
 items = 0
 
